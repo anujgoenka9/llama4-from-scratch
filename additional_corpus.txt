@@ -1,0 +1,11 @@
+# Additional Corpus for Llama 4 Training
+# Add your own text data below, with each paragraph separated by a blank line
+# The model will automatically load this file during training if it exists
+
+CRISPR systems are found in diverse bacterial and archaeal species, where they serve as adaptive immune systems against viral infections. When a virus infects a bacterium, the CRISPR system captures fragments of viral DNA and incorporates them into the bacterial genome as spacers between repeated sequences. These spacers serve as a memory of past infections and allow the bacterium to recognize and defend against future attacks by the same virus.
+
+The historical development of CRISPR technology began with basic research on bacterial immunity mechanisms. Scientists first observed CRISPR sequences in E. coli in 1987, but their function remained unknown for years. It wasn't until the early 2000s that researchers began to understand their role in bacterial immunity. The breakthrough for gene editing applications came in 2012, when Jennifer Doudna, Emmanuelle Charpentier, and their colleagues demonstrated that the CRISPR-Cas9 system could be programmed to cut specific DNA sequences in a test tube.
+
+The CRISPR revolution has transformed biomedical research by enabling scientists to modify genomes with unprecedented precision and ease. Prior gene editing technologies were either less efficient or required complex protein engineering for each target site. CRISPR, by contrast, requires only a change in the guide RNA sequence to target different DNA sites, making it more accessible and versatile for researchers across disciplines.
+
+# Add more text below as needed, ensuring each paragraph is separated by a blank line 
